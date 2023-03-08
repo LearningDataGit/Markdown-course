@@ -14,3 +14,8 @@ def sum(x: int, y: int):
   print("The value of y is:", y)
   return x+y
 ```
+
+### Task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
